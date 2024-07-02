@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dj Tomi Pirchio\\Desktop\\pre-entrega\\segundaentrega\\CoderHouse\\SistemaGestion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6266C707-D9F4-4B65-93E9-24CA2D5D07AD}|SistemaGestionWebApi\\SistemaGestionWebApi.csproj|c:\\users\\dj tomi pirchio\\desktop\\pre-entrega\\segundaentrega\\coderhouse\\sistemagestion\\sistemagestionwebapi\\controllers\\productovendidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6266C707-D9F4-4B65-93E9-24CA2D5D07AD}|SistemaGestionWebApi\\SistemaGestionWebApi.csproj|solutionrelative:sistemagestionwebapi\\controllers\\productovendidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6266C707-D9F4-4B65-93E9-24CA2D5D07AD}|SistemaGestionWebApi\\SistemaGestionWebApi.csproj|c:\\users\\dj tomi pirchio\\desktop\\pre-entrega\\segundaentrega\\coderhouse\\sistemagestion\\sistemagestionwebapi\\sistemagestionwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6266C707-D9F4-4B65-93E9-24CA2D5D07AD}|SistemaGestionWebApi\\SistemaGestionWebApi.csproj|solutionrelative:sistemagestionwebapi\\sistemagestionwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{931A0C35-59BA-4642-8D51-5F630ED22181}|SistemaGestionBussiness\\SistemaGestionBussiness.csproj|c:\\users\\dj tomi pirchio\\desktop\\pre-entrega\\segundaentrega\\coderhouse\\sistemagestion\\sistemagestionbussiness\\sistemagestionbussiness.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{931A0C35-59BA-4642-8D51-5F630ED22181}|SistemaGestionBussiness\\SistemaGestionBussiness.csproj|solutionrelative:sistemagestionbussiness\\sistemagestionbussiness.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductoVendidoController.cs",
+              "DocumentMoniker": "C:\\Users\\Dj Tomi Pirchio\\Desktop\\pre-entrega\\segundaentrega\\CoderHouse\\SistemaGestion\\SistemaGestionWebApi\\Controllers\\ProductoVendidoController.cs",
+              "RelativeDocumentMoniker": "SistemaGestionWebApi\\Controllers\\ProductoVendidoController.cs",
+              "ToolTip": "C:\\Users\\Dj Tomi Pirchio\\Desktop\\pre-entrega\\segundaentrega\\CoderHouse\\SistemaGestion\\SistemaGestionWebApi\\Controllers\\ProductoVendidoController.cs",
+              "RelativeToolTip": "SistemaGestionWebApi\\Controllers\\ProductoVendidoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T21:20:45.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SistemaGestionWebApi",
+              "DocumentMoniker": "C:\\Users\\Dj Tomi Pirchio\\Desktop\\pre-entrega\\segundaentrega\\CoderHouse\\SistemaGestion\\SistemaGestionWebApi\\SistemaGestionWebApi.csproj",
+              "RelativeDocumentMoniker": "SistemaGestionWebApi\\SistemaGestionWebApi.csproj",
+              "ToolTip": "C:\\Users\\Dj Tomi Pirchio\\Desktop\\pre-entrega\\segundaentrega\\CoderHouse\\SistemaGestion\\SistemaGestionWebApi\\SistemaGestionWebApi.csproj",
+              "RelativeToolTip": "SistemaGestionWebApi\\SistemaGestionWebApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-02T21:20:25.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SistemaGestionBussiness",
+              "DocumentMoniker": "C:\\Users\\Dj Tomi Pirchio\\Desktop\\pre-entrega\\segundaentrega\\CoderHouse\\SistemaGestion\\SistemaGestionBussiness\\SistemaGestionBussiness.csproj",
+              "RelativeDocumentMoniker": "SistemaGestionBussiness\\SistemaGestionBussiness.csproj",
+              "ToolTip": "C:\\Users\\Dj Tomi Pirchio\\Desktop\\pre-entrega\\segundaentrega\\CoderHouse\\SistemaGestion\\SistemaGestionBussiness\\SistemaGestionBussiness.csproj",
+              "RelativeToolTip": "SistemaGestionBussiness\\SistemaGestionBussiness.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-02T21:20:23Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
